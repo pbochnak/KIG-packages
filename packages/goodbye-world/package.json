@@ -1,0 +1,26 @@
+{
+  "name": "@pbochnak/goodbye-world",
+  "version": "0.0.0",
+  "description": "Klastry i Gridy - goodbye world package",
+  "author": "pbochnak <pabochnak@pgs-soft.com>",
+  "homepage": "https://github.com/pbochnak/KIG-packages#readme",
+  "license": "ISC",
+  "main": "lib/goodbye-world.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pbochnak/KIG-packages.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/pbochnak/KIG-packages/issues"
+  }
+}
