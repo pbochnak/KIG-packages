@@ -1,6 +1,6 @@
 {
   "name": "@pbochnak/hello-world",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Klastry i Gridy - hello world package",
   "author": "pbochnak <pabochnak@pgs-soft.com>",
   "homepage": "https://github.com/pbochnak/KIG-packages#readme",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/pbochnak/KIG-packages/issues"
   },
-  "gitHead": "4eed43f3248c3d3710d730c1881903d77614b360"
+  "gitHead": "b82ce6909fccad0fb40254c27af356abf6cc74a6"
 }
