@@ -1,6 +1,6 @@
 {
   "name": "@pbochnak/goodbye-world",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Klastry i Gridy - goodbye world package",
   "author": "pbochnak <pabochnak@pgs-soft.com>",
   "homepage": "https://github.com/pbochnak/KIG-packages#readme",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/pbochnak/KIG-packages/issues"
   },
-  "gitHead": "f94bc26aca626f453d2199f2fd329f132952d9db"
+  "gitHead": "4eed43f3248c3d3710d730c1881903d77614b360"
 }
